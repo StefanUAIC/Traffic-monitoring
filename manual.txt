@@ -1,0 +1,7 @@
+toggle : <toggle> (<toggle> = weather / fuel / sports)
+Show weather
+Show fuel
+Show sports
+Send speed : <value>
+Send coordonates : x<value>y<value>
+Send accident --- Nu e nevoie sa dau coordonatele, le vom lua pe cele actuale ale clientului din struct user.
